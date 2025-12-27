@@ -1,6 +1,5 @@
 # 🚀 TrendSpotter API
 
-### Problem Statement: H-001| Automated Insight Machine
 ### Author: Pritam Sanagapalli | SRM University-AP
 > **An event-driven data pipeline API that converts raw CSV logs into executive-ready PDF reports with AI-generated narratives in under 30 seconds.**
 
